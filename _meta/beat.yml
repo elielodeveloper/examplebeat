@@ -1,0 +1,7 @@
+################### Examplebeat Configuration Example #########################
+
+############################# Examplebeat ######################################
+
+examplebeat:
+  # Defines how often an event is sent to the output
+  period: 1s

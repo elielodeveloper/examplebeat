@@ -1,0 +1,5 @@
+= Examplebeat Docs
+
+Welcome to the Examplebeat documentation.
+
+
